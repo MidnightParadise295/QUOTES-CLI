@@ -17,6 +17,7 @@ CD into the directory
 ```bash
 cd QUOTES-CLI
 ```
+Finally run the automatic installation and you are done! Open any Issues if something doesnt work for you and ill try to help!
 ```bash
 python3 zshconfiguration.py
 ```
