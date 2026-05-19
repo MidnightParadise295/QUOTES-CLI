@@ -7,7 +7,10 @@ Quotes-CLI is a easy to set-up Python coded quotes that grabs a random quote fro
 ```bash
 pip3 install requests
 ```
-
+## Get Started!
+```bash
+cd ~/Downloads/QUOTES-CLI-main && python3 zshconfiguration.py
+```
 ### This Project is Licensed under the GNU open source License 
 
 You can contribute and fork this repo and make your own version!
