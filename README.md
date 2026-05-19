@@ -1,6 +1,6 @@
 # Quotes-CLI 
 
-Quotes-CLI is a easy to set-up Python coded quotes that grabs a random quote from the [Quotable API](https://github.com/lukepeavey/quotable) Credits to Luke Peavey for the Quotable API and the amazing 12 Contributers contributing to the Quotable API project!
+Quotes-CLI is a easy to set-up Python coded quote that appears in your terminals start up that grabs a random quote from the [Quotable API](https://github.com/lukepeavey/quotable) Credits to Luke Peavey for the Quotable API and the amazing 12 Contributers contributing to the Quotable API project!
 
 ## Dependencies
 
