@@ -13,8 +13,8 @@ cd ~/Downloads/QUOTES-CLI-main && python3 zshconfiguration.py
 ```
 ## Examples
 
-![Example1](example1)
-![Example2](example2) 
+![Example1](example1.png)
+![Example2](example2.png) 
 ### This Project is Licensed under the GNU open source License 
 
 You can contribute and fork this repo and make your own version!
