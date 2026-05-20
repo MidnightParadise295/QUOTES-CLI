@@ -5,7 +5,6 @@ home = Path.home()
 otherscript = f"{home}/QuoteFolder/main.py"
 username = os.getenv("USER")
 shell= os.environ.get("SHELL", "")
-os.system("python3 main.py")
 time.sleep(2)
 if "zsh" in shell:
     
